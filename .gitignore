@@ -1,7 +1,4 @@
 node_modules
 dist
 .parcel-cache
-forkify-architecture-recipe-loading
-forkify-flowchart-part-1
-forkify-flowchart-part-2
-forkify-flowchart-part-3
+flowchart
